@@ -24,7 +24,7 @@ This project extracts and analyzes text data from web articles to identify senti
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/text-analysis-web.git
+   git clone https://github.com/dileepbethu/text-analysis-web.git
    ```
 2. Install dependencies:
    ```bash
